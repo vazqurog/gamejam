@@ -1,0 +1,10 @@
+/Users/elkenken/gamejam/.mono/temp/bin/Debug/Gamejam.dll
+/Users/elkenken/gamejam/.mono/temp/bin/Debug/Gamejam.pdb
+/Users/elkenken/gamejam/.mono/temp/obj/Debug/Gamejam.csproj.AssemblyReference.cache
+/Users/elkenken/gamejam/.mono/temp/obj/Debug/Gamejam.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elkenken/gamejam/.mono/temp/obj/Debug/Gamejam.AssemblyInfoInputs.cache
+/Users/elkenken/gamejam/.mono/temp/obj/Debug/Gamejam.AssemblyInfo.cs
+/Users/elkenken/gamejam/.mono/temp/obj/Debug/Gamejam.csproj.CoreCompileInputs.cache
+/Users/elkenken/gamejam/.mono/temp/obj/Debug/Gamejam.dll
+/Users/elkenken/gamejam/.mono/temp/obj/Debug/Gamejam.pdb
+/Users/elkenken/gamejam/.mono/temp/obj/Debug/Gamejam.sourcelink.json
